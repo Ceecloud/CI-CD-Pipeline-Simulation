@@ -61,18 +61,3 @@ Once you save it, just run:
 git add README.md
 git commit -m "Final clean README"
 git push origin cicd
-
-Do you want me to also show you how it will look on GitHub’s README page so you can compare after pushing?
-
-You said:
-is it at purpose i will stop
-ChatGPT said:
-
-Yes 👍 once you reach the Purpose section in the text I gave you, that’s the end of the README — you can stop there.
-
-So your file should end like this on GitHub:
-
-Purpose
-
-This project is only for learning and simulation.
-It does not deploy a real EC2 instance but demonstrates the workflow of a CI/CD pipeline.
